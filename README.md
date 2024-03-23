@@ -5,3 +5,7 @@
 - Jugar al fútbol (sin importar que soy uno menos)
 - Escuchar música, en especial Soda Stereo
 - Hacer videojuegos en Unity
+
+### Les dejo una foto de mi perro Pappo
+
+![Pappo](Pappo.jpeg "Pappo")
