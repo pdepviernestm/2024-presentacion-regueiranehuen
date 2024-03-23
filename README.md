@@ -1,10 +1,7 @@
-# Nehuen Regueira-
+# Nehuen Regueira
+- Tengo 20 años y estoy hace 2 en la carrera
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
+## Mis hobbies son
+- Jugar al fútbol (sin importar que soy uno menos)
+- Escuchar música, en especial Soda Stereo
+- Hacer videojuegos en Unity
