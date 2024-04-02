@@ -6,6 +6,6 @@
 - Escuchar música, en especial Soda Stereo
 - Hacer videojuegos en Unity
 
-### Les dejo una foto de mi perro Pappo
+### Les dejo una foto de mi perro Pappo, tiene 7 años pero en la foto era más cachorro
 
 ![Pappo](Pappo.jpeg "Pappo")
